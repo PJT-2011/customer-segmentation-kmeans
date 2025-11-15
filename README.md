@@ -18,7 +18,7 @@ This program is designed to run in Google Colab.
 3.  Select "Run all" to execute the entire program.
 4.  The interactive prompt will appear at the bottom after the model is trained and the plot is shown.
 
-**NOTE:** This notebook is need the Mall_Customers.csv file to work, run the code cautiosly to avoid errors.
+**NOTE:** This notebook needs the Mall_Customers.csv file to work, run the code cautiosly to avoid errors.
 
 ---
 
