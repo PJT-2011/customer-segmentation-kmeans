@@ -18,7 +18,7 @@ This program is designed to run in Google Colab.
 3.  Select "Run all" to execute the entire program.
 4.  The interactive prompt will appear at the bottom after the model is trained and the plot is shown.
 
-**NOTE:** This notebook is specially coded to automatically load the `Mall_Customers.csv` file from this repository, so no file upload is needed.
+**NOTE:** This notebook is need the Mall_Customers.csv file to work, run the code cautiosly to avoid errors.
 
 ---
 
@@ -26,7 +26,7 @@ This program is designed to run in Google Colab.
 
 Here is a short video where I demonstrate the program, explain the code, and show the results.
 
-**[Click here to watch the demo on YouTube](https://www.YOUR_YOUTUBE_LINK.com)**
+**[Click here to watch the demo on DRIVE](https://drive.google.com/drive/folders/1NifMDOXQW8gAARNeKp2nPCiixg9ZxUAa?usp=sharing)**
 
 ---
 
@@ -41,7 +41,8 @@ Here is a short video where I demonstrate the program, explain the code, and sho
 This plot shows the final 5 segments the model discovered:
 
  
-*(You can take a screenshot of your plot and upload it to your repo, then change the link here)*
+<img width="854" height="551" alt="Screenshot 2025-11-15 193053" src="https://github.com/user-attachments/assets/a3a175e9-19bb-4286-9b88-ea901a09b021" />
+
 
 1.  **Standard (Green):** Average income, average spending.
 2.  **Target (Red):** High income, high spending.
