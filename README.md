@@ -1,10 +1,10 @@
-# 🛍️ Customer Segmentation using K-Means Clustering
+# Customer Segmentation using K-Means Clustering
 
 This is a machine learning project. It uses unsupervised learning (K-Means) to analyze the `Mall_Customers.csv` dataset and segment customers into 5 distinct groups based on their income and spending scores.
 
 ---
 
-## 🚀 How to Run This Program
+## How to Run This Program
 
 This program is designed to run in Google Colab.
 
@@ -22,7 +22,7 @@ This program is designed to run in Google Colab.
 
 ---
 
-## 📺 Video Demonstration
+## Video Demonstration
 
 Here is a short video where I demonstrate the program, explain the code, and show the results.
 
@@ -30,7 +30,7 @@ Here is a short video where I demonstrate the program, explain the code, and sho
 
 ---
 
-## 🧠 About the Model
+## About the Model
 
 * **Model Type:** Unsupervised Learning (K-Means Clustering)
 * **Libraries Used:** `scikit-learn`, `pandas`, `matplotlib`
